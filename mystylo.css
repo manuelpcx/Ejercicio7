@@ -1,0 +1,103 @@
+.parte1{
+	height: 500px;
+	width: 100%;
+	background-image: url("images/bg.jpeg");
+	background-position: 50%;
+	
+}
+.img-responsive{
+	position: relative;
+	float: right;
+}
+.head{
+	margin-bottom: 50px;
+}
+.head2{
+	margin-top: 40px;
+
+}
+.header{
+	margin-left: 17%;
+}
+.parte1 p{
+	width: 65%;
+	text-align: center;
+	color: white;
+	font-size: 15px;
+	position: relative;
+	margin-left: 17%;
+	margin-right: 50px;
+	bottom: 0px;
+}
+.parte1 h1{
+	width: 500px;
+	color: white;
+	text-align: center;
+	padding-top: 100px;
+	margin-left: 30%;
+}
+.parte1 ul li{
+	list-style-type: none; 
+	color: white;
+	float: right;
+	margin: 10px;
+}
+.parte1 img{
+	height: 70px;
+	width: 200px;
+	position: absolute;
+}
+
+.img{
+	width: 50px;
+	height: 50px;
+}
+.info{
+	text-align: center;
+}
+.main{
+	text-align: center;
+}
+.imagen{
+	width: 60%;
+}
+.img-responsive{
+	max-width: 100%;
+}
+.parte3 h2{
+	text-align: center;
+	padding-top: 30px;
+}
+.parte3 p{
+	text-align: center;
+	padding-bottom: 30px;
+}
+.container h2{
+	text-align: center;
+}
+.container p{
+	text-align: center;
+}
+.container button{
+	margin-left: 45%;
+}
+.button3 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color:#3787FD;
+	border-radius: 10px;
+	margin-left: 45%;
+}
+.boton1{
+	margin-left: 45%;
+}
+.lista li{
+
+}	
+.footer{
+	background-color: black;
+	color: white;
+}
+.footer p{
+	margin-bottom: 0px;
+}
